@@ -1,0 +1,11 @@
+#quarry
+bricks,5000
+doors,5000
+windows,90000
+#hello, this is an error
+#buildings
+1storeyhouse,35
+2storeyhouse,55
+church,33
+hospital,66
+university,74
